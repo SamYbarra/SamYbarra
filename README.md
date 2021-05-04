@@ -10,7 +10,6 @@ lover of new technologies and passionate about self-learning.
 - 🌱 I’m currently learning [React.JS](https://reactjs.org/).
 - 🚀 Always ready to collaborate on a development team.
 - 🎯 Life Hack: "I don't have dreams, I have goals".
-- 💬 Ask me about anything <a href="https://t.me/SamYbarra">Here</a>.
 - :book: I'm book lover.
 
 <br />

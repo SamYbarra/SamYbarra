@@ -15,9 +15,9 @@ lover of new technologies and passionate about self-learning.
 
 <br />
 <hr>
-
+<h1>
 <img align="right" height="250" width="375" alt="" src="http://2.bp.blogspot.com/-qvE2DmZ_BRA/VeDS9cWabdI/AAAAAAAAAE8/GGnnfRzcFV8/s1600/computadora-prehistrica_783.gif" />
-
+<h1/>
 **Languages and Tools:**
 
 <br />

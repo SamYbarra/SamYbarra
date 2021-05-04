@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi my name is SamYbarra, study in the University Private of North
 <!--
 **SamYbarra/SamYbarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

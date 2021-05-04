@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m SamYbarra
 
 I’m a computer systems engineer student at [Nort Private University](https://www.upn.edu.pe/).
-<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/59841113/116446751-e174a200-a81c-11eb-8387-d5aca6668bbc.gif" />
+<img align="right" height="250" width="375" alt="" src="https://4.bp.blogspot.com/-8w9iUDPQ8As/Uz7Mk1T3mwI/AAAAAAAAAQs/SvfYWkeUsW8/s320/imagen.gif" />
 lover of new technologies and passionate about self-learning.
 
 <br />
@@ -15,6 +15,8 @@ lover of new technologies and passionate about self-learning.
 
 <br />
 <hr>
+
+<img align="right" height="250" width="375" alt="" src="http://2.bp.blogspot.com/-qvE2DmZ_BRA/VeDS9cWabdI/AAAAAAAAAE8/GGnnfRzcFV8/s1600/computadora-prehistrica_783.gif" />
 
 **Languages and Tools:**
 
